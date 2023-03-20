@@ -2,7 +2,7 @@
 
 
      import java.util.Scanner;
-public class siralama {
+    public class siralama {
     public static void main(String[] args) {
         int a, b, c;
 
@@ -45,5 +45,5 @@ public class siralama {
 
 
 
-    }
-}
+        }
+     }
